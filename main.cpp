@@ -33,7 +33,7 @@ int main()
             std::cout << "You have entered the false code." << std::endl;
             std::cout << "Please try again." << std::endl;
             std::cout << "Please wait until the new code will be generated." << std::endl;
-            Sleep(9999);
+            Sleep(999);
             continue;
         }
 
